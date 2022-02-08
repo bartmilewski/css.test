@@ -1,3 +1,10 @@
-h1 {
-color: #00ff00;
+h1, h1.title, h1.topictitle {
+    color: #c78917;
+    padding-top: 10px;
+    font-size: large;
 }
+
+a {
+    color: #cd2df5;
+}
+
